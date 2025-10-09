@@ -1,0 +1,10 @@
+fastapi
+fastapi.middleware.cors
+pandas
+numpy
+joblib
+sklearn.preprocessing 
+json 
+requests
+pydantic
+pickle
