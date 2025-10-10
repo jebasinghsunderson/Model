@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]       # to run FastAPI
+pandas
+numpy
+joblib
+scikit-learn
+requests
+pydantic
+slowapi
